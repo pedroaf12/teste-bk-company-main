@@ -119,7 +119,7 @@ O frontend estará disponível em `http://localhost:3001`
   },
   "lineItems": [
     {
-      "itemId": "P-001",
+      "itemId": "SKU-001",
       "itemName": "Camiseta Básica",
       "qty": 2,
       "unitPrice": 49.90
