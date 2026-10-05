@@ -1,2 +1,0 @@
-# teste-bk-company-main
-
